@@ -1,0 +1,18 @@
+[
+  {
+    "user_first_name": "kishore",
+    "user_last_name": "siva",
+    "user_contact_number": "9655443312",
+    "user_email_id": "siv@gmail.com",
+    "userAddress": {
+      "plotNumber": "s-m",
+      "street": "sa lane",
+      "state": "saintlouis",
+      "country": "MO",
+      "zipCode": "61146"
+    }
+  }
+]
+
+
+
